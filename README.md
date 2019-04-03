@@ -13,20 +13,14 @@ https://github.com/amandat85/Constructor-Word-Guess
 * Chalk
 * Inquirer
 
- ## Setup Files
- To play the Constructor Word Guess Game you will need to se up certain files.
+ ## Setup
+ To play the Constructor Word Guess Game you will need to:
 
  1. Clone/download the repository from the following github page: https://github.com/amandat85/Constructor-Word-Guess
- 2. Create a .gitignore file. In this .gitignore file add the following file names:
-    ```
-    .DS_Store
-    node_modules
-    ```
-## Setup Node and NPM
-5. Check that you have node.js and node package manager (npm) installed. To do this open the terminal and type `node -v` and then `npm -v`. If a version number shows up, you have it installed. If nothing shows up then you need to do some installations. To install node.js and npm you can simply install node and it will take care of both: https://nodejs.org/en/
-6. Next, navigate to the directory holding the cloned or downloaded LIRI repository.
-7. When in th repository directory run `npm install`
-8. This should install the following node modules and their dependencies:
+ 2. Check that you have node.js and node package manager (npm) installed. To do this open the terminal and type `node -v` and then `npm -v`. If a version number shows up, you have it installed. If nothing shows up then you need to do some installations. To install node.js and npm you can simply install node and it will take care of both: https://nodejs.org/en/
+ 3. Next, navigate to the directory holding the cloned or downloaded Constructor Word Guess repository.
+ 4. When in th repository directory run `npm install`
+ 5. This should install the following node modules and their dependencies:
     * chalk
     * figlet
     * inquirer
