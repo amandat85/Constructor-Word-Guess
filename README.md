@@ -21,7 +21,6 @@ https://github.com/amandat85/Constructor-Word-Guess
     ```
     .DS_Store
     node_modules
-
     ```
 ## Setup Node and NPM
 5. Check that you have node.js and node package manager (npm) installed. To do this open the terminal and type `node -v` and then `npm -v`. If a version number shows up, you have it installed. If nothing shows up then you need to do some installations. To install node.js and npm you can simply install node and it will take care of both: https://nodejs.org/en/
