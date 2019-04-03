@@ -2,7 +2,7 @@
 
 ![Constructor Word Guess Demo](constructor-word-guess.png)
 
-## ## Repository 
+## Repository 
 https://github.com/amandat85/Constructor-Word-Guess
 
 ## Languages, Tools and Techologies
